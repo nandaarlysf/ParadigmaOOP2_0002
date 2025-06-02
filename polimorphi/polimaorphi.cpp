@@ -14,3 +14,9 @@ class joko :public seseorang {
         cout<<"pesan dari joko"<<endl;
      }   
 };
+class lila:public seseorang {
+public:
+     void pesan() {
+        cout<<"pesan dari lila"<<endl;
+     }   
+};
